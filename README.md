@@ -2,8 +2,8 @@ Hello, welcome
 
 - 👋 Hi, I’m Bruno
 - 👀 I’m interested in IT Architecture, automation, virtualization, HCI
-- 🌱 I’m currently learning : Hybrid Cloud Engineer - Udacity - Nutanix
-- 💞️ I’m looking to collaborate on : Project 2 - Private Cloud SaaS: Three-Tier Web Application
+- 🌱 I’m currently learning : AWS Cloud Practitioner Essentials (English)``
+- 💞️ I’m looking to collaborate on : AWS learning practitioner project
 - 📫 How to reach me ...
 
 <!---
